@@ -1,6 +1,6 @@
 {
   "name": "multi-tieuvi7850",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Test",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "cacl"
   ],
   "author": "tieuvi7850",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tieuvi7850/multi-tieuvi7850/issues"
   },
